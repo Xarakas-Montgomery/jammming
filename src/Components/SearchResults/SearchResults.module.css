@@ -1,0 +1,24 @@
+.SearchResults {
+    width: 50%;
+    height: 475px;
+    overflow-y: scroll;
+    padding: .88rem;
+    background-color: rgba(25, 22, 4, 0.7);
+    box-shadow:  2px 4px  #000000;
+    color: rgb(255, 153, 0);
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+@media only screen and (max-width: 1020px) {
+    .SearchResults {
+        width: 90%;
+        margin-bottom: 2rem;
+    }
+}

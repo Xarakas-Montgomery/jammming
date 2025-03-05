@@ -1,0 +1,59 @@
+body,
+html,
+#root {
+  height: 100%;
+}
+
+html {
+  font-size: 18px;
+  
+}
+
+h1 {
+  padding: .77rem 0;
+  background-color: #653007;
+  text-align: center;
+  font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 1.88rem;
+  font-weight: bold;
+  color: rgb(215, 215, 215);
+}
+
+h1 .highlight {
+  color: #e6bf10e7;
+}
+
+h2 {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 1.55rem;
+  color: white;
+}
+
+.App {
+    height: 100%;
+    padding: 0 17% 10% 17%;
+    text-align: center;
+    background-image: url('/src/Images/Jammming3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+.App-playlist {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+/* Media queries starting */
+
+@media only screen and (max-width: 1020px) {
+    .App-playlist {
+      align-items: center;
+      flex-direction: column;
+    }
+}
