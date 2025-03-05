@@ -1,3 +1,5 @@
+### Jammming
+Jamming is a useless React app for creating new playlists with Spotify.
 ![image](https://github.com/user-attachments/assets/7bf167e1-9a58-43ce-9fcf-1d7ae2dcf21a)
 
 
