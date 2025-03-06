@@ -87,3 +87,5 @@ This was a practice project from the full stack program at Codeacademy.
 ## Check my Project on my Custom Domain
 
 Link: https://xarakasjammming.surge.sh/
+
+WHEN YOU TYPE THE SONG IN SEARCH, IT WILL RELOAD THE PAGE, COULDN'T FIX THIS ISSUE. ONCE RELOADED AND YOU TRY TO SEARCH THE SONGS AGAIN IT WILL BE WORKING
