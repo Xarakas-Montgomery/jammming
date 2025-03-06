@@ -86,4 +86,4 @@ This was a practice project from the full stack program at Codeacademy.
 
 ## Check my Project on my Custom Domain
 
-Link: http://xarakasjammming.surge.sh/
+Link: https://xarakasjammming.surge.sh/
